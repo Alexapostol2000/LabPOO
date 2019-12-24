@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="724667b0-f52a-4774-b1c2-e36a05f0cfb7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UaOCUqe43VpzWinXWUCmU13unk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../design-patterns-part1-skel" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainEx4 (1)">
+    <configuration name="MainEx1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oop_pub.exceptions.ex1.MainEx1" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oop_pub.exceptions.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainEx2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oop_pub.exceptions.ex2_3.MainEx2" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oop_pub.exceptions.ex2_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_pub.exceptions.ex2_3.MainEx2" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_pub.exceptions.ex2_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainEx4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.oop_pub.exceptions.ex4.MainEx4" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.oop_pub.exceptions.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_pub.exceptions.ex4.MainEx4" />
+      <module name="lab10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oop_pub.exceptions.ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainEx1 (1)" />
+      <item itemvalue="Application.MainEx2" />
+      <item itemvalue="Application.MainEx4" />
+      <item itemvalue="Application.MainEx2 (1)" />
+      <item itemvalue="Application.MainEx4 (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainEx4 (1)" />
+        <item itemvalue="Application.MainEx2 (1)" />
+        <item itemvalue="Application.MainEx1 (1)" />
+        <item itemvalue="Application.MainEx4" />
+        <item itemvalue="Application.MainEx2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="724667b0-f52a-4774-b1c2-e36a05f0cfb7" name="Default Changelist" comment="" />
+      <created>1575591111884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575591111884</updated>
+      <workItem from="1575591116064" duration="404000" />
+      <workItem from="1575619765810" duration="5399000" />
+      <workItem from="1575894245709" duration="63000" />
+      <workItem from="1576164554132" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
